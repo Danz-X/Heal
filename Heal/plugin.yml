@@ -1,7 +1,7 @@
 name: Heal
 version: 0.0.1
 main: Concave_pizza12\Heal\Main
-api: 3.22.2
+api: 3.22.1
 
 commands:
     heal:
